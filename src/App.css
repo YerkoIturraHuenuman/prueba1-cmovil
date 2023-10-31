@@ -1,0 +1,18 @@
+.homePage {
+  padding: 0 20px 0 20px;
+}
+.contenedorDatos {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+}
+.navbar {
+  padding: 30px;
+  display: flex;
+}
+.contenedorBotonesTheme {
+  margin-left: auto;
+}
+.contenedorBotonesTheme button {
+  margin: 5px;
+}
